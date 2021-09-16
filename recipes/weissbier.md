@@ -17,7 +17,7 @@ Melanoiden Malt - 2.8%
 
 Magnum (10.7% alpha-acid) - 0.37g/l g/l at 60'
 
-# Yest
+# Yeast
 
 LevTeck TechBrew 68 Weizen Ale - 1pkg
 

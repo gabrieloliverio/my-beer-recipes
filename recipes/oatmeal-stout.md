@@ -20,7 +20,7 @@ Black Malt - 1.6%
 
 Magnum (12.0% alpha-acid) - 1.31g/l at 60'
 
-# Yest
+# Yeast
 
 S-04 (SafAle English Ale) - 1pkg
 

@@ -19,7 +19,7 @@ Centennial (10% alpha-acid) - 0.4 g/l at 30'
 Mosaic (12.3% alpha-acid) - 0.4g/l at 20'
 Mosaic (12.3% alpha-acid) - 0.53g/l at hopstand ~80ºC
 
-# Yest
+# Yeast
 
 US-05 - 1pkg
 
