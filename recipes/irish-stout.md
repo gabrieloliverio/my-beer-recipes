@@ -1,17 +1,17 @@
 # 15B - Irish Stout
 
-ABV:    4.7%
-OG:     1.048
-FG:     1.012
-EBC:    86
-IBU:    36
-BU/GU:  0.75
+- ABV:    4.7%
+- OG:     1.048
+- FG:     1.012
+- EBC:    86
+- IBU:    36
+- BU/GU:  0.75
 
 # Grist:
 
-Pilsner Malt - 62%
-Flaked Oat - 23.8%
-Roasted Barley - 14.2%
+- Pilsner Malt - 62%
+- Flaked Oat - 23.8%
+- Roasted Barley - 14.2%
 
 # Hops
 
@@ -23,14 +23,14 @@ SafAle S-04 - 1pkg
 
 # Mash profile
 
-65ºC for 60'
-Mash-out for 10'
+- 65ºC for 60'
+- Mash-out for 10'
 
 # Fermentation profile:
 
-Primary at 20ºC for 7 days
-Secondary at 22ºC for 2 days
-Cold crash at 2ºC for 5 days
+- Primary at 20ºC for 7 days
+- Secondary at 22ºC for 2 days
+- Cold crash at 2ºC for 5 days
 
 # Carbonation:
 

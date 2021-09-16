@@ -1,19 +1,19 @@
 # CODE - Style name
 
-ABV:
-OG:
-FG:
-EBC:
-IBU:
-BU/GU:
+- ABV:
+- OG:
+- FG:
+- EBC:
+- IBU:
+- BU/GU:
 
 # Grist:
 
-Type - X%
+- Type - X%
 
 # Hops
 
-Type (X% alpha-acid) - Y g/l at T'
+- Type (X% alpha-acid) - Y g/l at T'
 
 # Yest
 
@@ -21,11 +21,11 @@ Name - Amount
 
 # Mash profile
 
-XºC for T'
+- XºC for T'
 
 # Fermentation profile:
 
-Type at TºC for N days
+- Type at TºC for N days
 
 # Carbonation:
 
