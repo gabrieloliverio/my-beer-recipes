@@ -29,6 +29,7 @@ S-04 (SafAle English Ale) - 1pkg
 XºC for T'
 42ºC for 30' (only the oat)
 65ºC for 60' (the whole grist)
+Mash-out for 10'
 
 # Fermentation profile:
 
