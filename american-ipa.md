@@ -37,8 +37,8 @@ Fermentis S-05 - 1pkg
 Start before the end of the primary fermentation at 20ºC, when there is some yeast activity.
 Keep the primary temperature or start the secondary.
 
-- Columbus - 1.0 g/l for dry hop for 4 days
-- Nugget - 2.0 g/l for dry hop for 4 days
+- Columbus - 1.0 g/l for 4 days
+- Nugget - 2.0 g/l for 4 days
 
 # Carbonation:
 
