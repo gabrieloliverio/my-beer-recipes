@@ -26,7 +26,3 @@ Name - Amount
 # Fermentation profile:
 
 - Type at TºC for N days
-
-# Carbonation:
-
-Priming of X g/l
